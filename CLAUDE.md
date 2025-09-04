@@ -151,6 +151,3 @@ The game features complete randomization of world elements:
 - **bevy = "0.16"** - Game engine and ECS framework
 - **rand = "0.9"** - Random number generation for procedural content
 
-
-## bevy 源码参考
-* bevy源码,路径在: /Volumes/soddy/git_workspace/bevy ,可以参考
